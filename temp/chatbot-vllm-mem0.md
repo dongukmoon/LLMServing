@@ -5,7 +5,7 @@ Refer to [1]
 
 ```python
 import openai
-
+   
 # Modify OpenAI's API key and API base to use vLLM's API server.
 openai_api_key = "EMPTY"
 openai_api_base = "http://localhost:8000/v1"
